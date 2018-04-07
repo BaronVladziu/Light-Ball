@@ -53,7 +53,9 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Camera_FollowPlayer.cs" />
      <Compile Include="Assets\Scripts\ColliderState.cs" />
+     <Compile Include="Assets\Scripts\Cube_Controls.cs" />
      <Compile Include="Assets\Scripts\GameController_EndGameAndRestart.cs" />
+     <Compile Include="Assets\Scripts\Map_RandomCubeHeightGenerator.cs" />
      <Compile Include="Assets\Scripts\Player_Controls.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
